@@ -17,6 +17,6 @@ public:
 int main()
 {
     signup user;
-    user.first_name = "prateek";
-    user.
+    // user.first_name = "prateek";
+    // user.
 }
