@@ -24,7 +24,5 @@ int main(){
         else
         cout<<"Two numbers are equally largest";
     }
-
-
     return 0;
 }
